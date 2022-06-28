@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mostafa Soleimani. I have no Public project on github, Because All of projects that i worked on it are For my company. But as soon as i can i will add some rich projects 
+### Hi there 👋 I'm Mostafa Soleimani.
 
 <!--
 **MostafaSoleimani/MostafaSoleimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
